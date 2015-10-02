@@ -1,0 +1,20 @@
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.exe.config
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.pdb
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG_byNovella.Form1.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG_byNovella.Resources.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.vbproj.GenerateResource.Cache
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.pdb
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.exe.config
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.exe
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.xml
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.pdb
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.exe
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.pdb
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\bin\Debug\ChangeColorBG-byNovella.xml
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG_byNovella.Form1.resources
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG_byNovella.Resources.resources
+D:\Master\Master Program\Project Visual Basic\ChangeColorBG-byNovella\ChangeColorBG-byNovella\obj\Debug\ChangeColorBG-byNovella.vbproj.GenerateResource.Cache
